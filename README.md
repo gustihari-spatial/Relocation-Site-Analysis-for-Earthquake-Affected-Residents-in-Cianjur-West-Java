@@ -1,0 +1,2 @@
+# Relocation-Site-Analysis-for-Earthquake-Affected-Residents-in-Cianjur-West-Java
+This project presents a GIS-based spatial analysis to assess the suitability of a proposed relocation site for communities affected by the Cianjur earthquake. The analysis integrates geological, topographical, spatial planning, seismic hazard, and environmental proximity data to support risk-informed post-disaster resettlement planning.
